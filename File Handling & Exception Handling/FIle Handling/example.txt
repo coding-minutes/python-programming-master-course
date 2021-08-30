@@ -1,0 +1,2 @@
+This is a sample file.
+We are learning file Handling in Python.
