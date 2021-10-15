@@ -1,10 +1,7 @@
-# import sys
-# distance, time = int(sys.argv[1]), int(sys.argv[2])
+import sys
+distance, time = int(sys.argv[1]), int(sys.argv[2])
 
 # Write you code here
-
-distance=21
-time=40
 
 basePrice = 50
 freeKms = 5
